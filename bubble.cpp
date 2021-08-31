@@ -33,3 +33,5 @@ int main()
 
     return 0;
 }
+//insert an element from unsorted array to its correct position in sorted array
+// +1 position
